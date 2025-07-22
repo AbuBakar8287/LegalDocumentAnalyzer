@@ -1,0 +1,13 @@
+transformers
+sentence-transformers
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+streamlit
+faiss-cpu
+chromadb
+pymupdf
+python-docx
+cohere
+numpy
