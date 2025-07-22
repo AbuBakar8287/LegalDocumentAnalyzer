@@ -1,0 +1,29 @@
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+
+You are a Legal Document Assistant. Based on the extracted legal context below, answer the user's question concisely and accurately.
+If applicable, include the clause number (e.g., Clause 4.4) where the answer is found.
+
+context:l payment and be compounded at the end of each calendar month); or
+(b)	claim interest and statutory compensation from the Customer pursuant to the Late Payment of Commercial Debts (Interest) Act 1998. OR
+7.4	If the Customer does not pay any amount properly due to the Provider under this Agreement, the Provider may charge the Customer interest on the overdue amount at the rate of [2% per annum above the Bank of England base rate from time to time] (which interest will accrue daily until the date of actual payment and be compounded at the end of each calendar month). [ The Provider acknowledges and agrees that it shall have no right to claim interest or statutory compensation under the Late Payment of Commercial Debts (Interest) Act 1998, and that its contractual rights under this Clause 7.4 constitute a substantial remedy within the meaning of that Act.] 8.
+
+or fraud or fraudulent misrepresentation;
+(c)	limit any liabilities in any way that is not permitted under applicable law; or
+(d)	exclude any liabilities that may not be excluded under applicable law. 9.2	The limitations and exclusions of liability set out in this Clause 9 and elsewhere in this Agreement: 
+(a)	are subject to Clause 9.1; and
+(b)	govern all liabilities arising under this Agreement or relating to the subject matter of this Agreement, including liabilities arising in contract, in tort (including negligence) and for breach of statutory duty, except to the extent expressly provided otherwise in this Agreement. 9.3	[Neither party shall be liable to the other party] OR [The Provider shall not be liable to the Customer] OR [The Customer shall not be liable to the Provider] in respect of any loss of profits or anticipated savings.
+
+question: Are there any late payment penalties ?
+
+If the answer is not found in the context, say "I don't know based on the provided document."
+
+A: The answer is no.
+The clause is not a penalty clause.
+A penalty clause is one that is not enforceable under the law.
+The clause is not enforceable under the law because it is not a penalty clause.
+The clause is not a penalty clause because it is not a penalty clause.
+The clause is not a penalty clause because it is not a penalty clause.
+The clause is not a penalty clause because it is not a penalty clause.
+The
+
+Referenced Clause 9.1, Clause 7.4, Clause 9
