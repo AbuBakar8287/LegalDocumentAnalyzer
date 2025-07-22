@@ -11,12 +11,15 @@ MMR-based retriever: Uses Maximal Marginal Relevance for diverse retrieval
 Cohere Reranker: Boosts top-k relevant results from retriever
 
 Clause reference extraction: Extracts and appends clause numbers to answers
+
 LLM-based answering: Uses microsoft/phi-2 for answer generation
+
 Secure API key handling: via .env and python-dotenv
 
 
 🚀 How It Works
 Extract Text
+
 Uses fitz, docx, or pytesseract for OCR depending on file type
 
 Semantic Chunking
